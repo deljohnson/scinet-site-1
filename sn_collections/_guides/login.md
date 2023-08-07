@@ -52,7 +52,7 @@ Delete your .ssh/known_hosts file OR run:
 ### Installation Instructions:
 
 - Step needs to be installed on your machine.
-- If you are on an ARS controlled laptop or workstation, this will need to be performed by CEC. They should be aware of the process. It may be in your software catalog. 
+- Installation of Step will require admin rights. If you are on an ARS controlled laptop or workstation, the installation will need to be performed by CEC. They should be aware of the process. If you are on a home machine, you will be able to install Step yourself. 
 - If you do need to perform the installation yourself, see: [https://smallstep.com/docs/step-cli/installation/](https://smallstep.com/docs/step-cli/installation/)
 
 ### After Step Installation:
