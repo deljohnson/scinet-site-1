@@ -74,6 +74,9 @@ To request project quota increase for storage on Ceres, Atlas and/or Juno fill o
 Please Note: Only the project manager or the project PI can request a quota increase. Any requests sent by other individuals will be declined.
 
 ### To Request a New Project Allocation
+
+Please Note: Only full-time ARS employees are able to submit these requests. Any requests sent by other individuals will be declined.
+
 When requesting additional data storage you will be asked for:
 * a project summary, 
 * project end date, 
