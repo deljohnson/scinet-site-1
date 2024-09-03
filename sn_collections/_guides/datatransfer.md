@@ -165,6 +165,7 @@ Other programs that have a GUI to transfer data and are suitable for smaller fil
 * FileZilla - [https://filezilla-project.org/](https://filezilla-project.org/)
 
 Cyberduck supports multiple protocols (including Amazon S3, iRODS, and Google Drive) and is more secure than FileZilla.
+Please note: With the new phishing resistant authentication methods (i.e. SmallStep, FileZilla is currently not supported). 
 
 ## Data Transfer to NCBI
 
